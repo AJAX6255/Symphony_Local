@@ -1,11 +1,18 @@
-<div align="center">
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+# Symphony Local
 
-  <h1>Built with AI Studio</h2>
+Professional MP3 player and spectrogram visualizer for local bird song libraries.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Instructions
+1. Open the app in a modern browser (Chrome/Edge recommended).
+2. Click **Open Folder**.
+3. Navigate to your library (e.g., `MP3 The Singing Life of Birds`).
+4. **Important**: In the browser dialog, you might not see individual MP3 files—this is normal. The browser is asking you to select the **Folder**.
+5. Click **Upload** or **Select** on the folder.
+6. The app will immediately list all MP3 files found.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+## Features
+- Full Waveform Seekable Bar
+- High-Resolution Spectrogram (0Hz - 12kHz optimized)
+- Keyboard Shortcuts (Space, N, P, Arrows)
+- Client-side only; no data leaves your machine.

@@ -1,0 +1,7 @@
+{
+  "name": "Symphony Local - MP3 Visualizer",
+  "description": "Professional MP3 player and real-time spectrogram visualizer for local bird song libraries.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
